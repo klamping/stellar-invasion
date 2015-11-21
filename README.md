@@ -7,7 +7,6 @@ Your species is faced with a harsh reality: prosper or perish.
 To prosper, your species must conquer planets scattered throughout the system. Some of these planets are more desireable than others. Some have already been conquered, and require a 
 
 - the goal is to kill all of your opponents citizens (or get them to surrender once they know they’ve lost)
-- 
 
 ## Pieces
 
