@@ -4,19 +4,23 @@
 
 Your species is faced with a harsh reality: prosper or perish.
 
-To prosper, your species must conquer planets scattered throughout the system. Some of these planets are more desireable than others. Some have already been conquered, and require a 
+To prosper, your species must conquer planets scattered throughout the system. Some of these planets are more desireable than others. Some have already been conquered, and require an offensive to rid the planet of the competing colony.
+
+If you fail to prosper, you will be invaded. Spread too slowly, and you won't amass the army necessary for a proper defense. Grow too quickly and you'll 
 
 - the goal is to kill all of your opponents citizens (or get them to surrender once they know they’ve lost)
 
 ## Pieces
 
-- the risk pieces are your citizens
+- Each wooden block represents 1 citizen unit.
 
+## Initial Colonization
 
-## Initial Settlements
+The game starts with a space 
 
-- you have 40 citizens to settle your planets to start the game, but settling does require defeating the natives
-so if you want to settle a large planet, you lose 20 of your citizens in the process
+You begin with 40 citizen units to settle the planets. 
+
+Settling requires defeating the natives, but only at half the rate. For example, if you want to settle a large planet, you will loose X/2 of your citizens in the process (half the normal amount of X).
 
 ## Turns
 
