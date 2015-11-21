@@ -4,7 +4,15 @@
 
 Your species is faced with a harsh reality: prosper or perish.
 
+To prosper, your species must conquer planets scattered throughout the system. Some of these planets are more desireable than others. Some have already been conquered, and require a 
 
+## Conquering Planets
+
+### Natives
+
+### Defense
+
+Each conquered planet provides 1 defense to the player who currently inhabits it. 
 
 ## Planetary Growth
 
