@@ -1,16 +1,18 @@
 # Stellar Invasion
 
+![](layout.jpg)
+
 ## Overview
 
 Your species is faced with a harsh reality: prosper or perish.
 
-To prosper, your species must conquer planets scattered throughout the system. Some of these planets are more desireable than others. Some have already been conquered, and require an offensive to rid the planet of the competing colony.
+To prosper, your species must conquer planets scattered throughout the system. Some of these planets are more desirable than others. Some have already been conquered, and require an offensive to rid the planet of the competing colony.
 
 If you fail to prosper, you **will** be invaded. Spread too slowly, and you'll fail to amass the army necessary for a proper defense. Spread out too quickly and you'll leave your defenses spread thin, allowing an enemy to quickly conquer your citizenship.
 
-## Pieces
+## Citizen Units
 
-Each wooden block represents 1 citizen unit. 1 citizen unit is equal to a good number of citizens; not too big to transport between planets, but big enough to take care of themselves as they colonize planets.
+Each wooden block represents 1 citizen unit. 1 citizen unit is equal to a good number of citizens; not too big to transport between planets, but big enough to take care of themselves as they colonize planets and fight enemies.
 
 ## Initial Colonization
 
