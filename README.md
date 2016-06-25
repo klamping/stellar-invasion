@@ -1,4 +1,4 @@
-# Game Overview
+# Background
 
 Your species is faced with a harsh reality: prosper or perish.
 
@@ -8,7 +8,9 @@ If you fail to prosper, you **will** be invaded. Spread too slowly, and you'll f
 
 ![](layout.jpg)
 
-## Game Concepts
+## Overview
+
+## Concepts
 
 ### Ships
 
@@ -54,9 +56,11 @@ Each planet has a ship limit, depending on its size.
 
 ### Initial Colonization
 
-The game starts by populating the star system. Each player begins with 40 ships to settle the planets. 
+The game starts by populating the star system. Each player begins with 25 ships to settle the planets. 
 
-Settling a planet requires defeating the natives, but at only half the normal rate. For example, if you want to settle a large planet (12 natives), you will lose 6 of your ships in the process (half the normal amount of 12).
+Starting with player one, each player populates a single planet with as many or few ships as they'd like (so long as it's one more than the number of natives on the planet). Each player then takes a turn populating a single planet until the last player is reached. The order then reverses, with the last player going first and the player one going last. This process repeats itself until all players have used their 25 ships.
+
+Settling a planet requires defeating the natives, but at only half the normal rate. For example, if you want to settle a large planet (12 natives), you will lose 6 of your ships in the process (half the normal amount of 12). Ships lost due to natives go back in to the reserve pile and are not available until the main phase begins.
 
 ### Main Phases
 
@@ -66,11 +70,11 @@ The game is compromised of two phases: Movement and Production. The game cycles 
 
 Turns are compromised of each player moving their ships up to 3 times (both passive movement and attacking). If the player so desires, they may complete their turn without taking all 3 movement opportunities. 
 
-Movement happens sequentially, meaning each player completes their 3 movements individually. In a two player game, player one will make their 3 moves, then player two with make theirs.
-
 A single "movement" means moving any number of ships from one planet to another. For example, moving 3 ships from Planet A to Planet B counts as one "movement". Moving a ship each from Planet A and Planet B to Planet C counts as two movements.
 
-The movement phase ends when all players have completed their 3 moves.
+Movement happens sequentially, meaning each player completes their 3 movements individually. In a three player game, player one will make their 3 moves, then player two with make theirs, then the third player will take their 3 moves.
+
+The movement phase ends when all players have completed their 3 moves. The starting player for the next turn is the person sitting to the left of the current starting player (player one to begin with).
 
 ##### Passive Movement
 
