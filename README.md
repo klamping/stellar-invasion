@@ -58,7 +58,7 @@ The game starts by populating the star system. Each player begins with 40 ships 
 
 Settling a planet requires defeating the natives, but at only half the normal rate. For example, if you want to settle a large planet (12 natives), you will lose 6 of your ships in the process (half the normal amount of 12).
 
-### Main Game
+### Main Phases
 
 The game is compromised of two phases: Movement and Production. The game cycles between the two phases until one player has eradicated all the enemy players.
 
