@@ -56,9 +56,9 @@ Each planet has a ship limit, depending on its size.
 
 ### Initial Colonization
 
-The game starts by populating the star system. Each player begins with 25 ships to settle the planets. 
+The game starts by populating the star system. Each player begins with 30 ships to settle the planets. 
 
-Starting with player one, each player populates a single planet with as many or few ships as they'd like (so long as it's one more than the number of natives on the planet). Each player then takes a turn populating a single planet until the last player is reached. The order then reverses, with the last player going first and the player one going last. This process repeats itself until all players have used their 25 ships.
+Starting with player one, each player populates a single planet with as many or few ships as they'd like (so long as it's one more than the number of natives on the planet). Each player then takes a turn populating a single planet until the last player is reached. The order then reverses, with the last player going first and the player one going last. This process repeats itself until all players have used their 30 ships.
 
 Settling a planet requires defeating the natives, but at only half the normal rate. For example, if you want to settle a large planet (12 natives), you will lose 6 of your ships in the process (half the normal amount of 12). Ships lost due to natives go back in to the main supply and are not available until the main phase begins.
 
