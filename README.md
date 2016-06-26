@@ -48,9 +48,9 @@ All planets have natives living on them. Even conquered planets have natives (th
 
 Each planet has a ship limit, depending on its size. 
 
-- Small planets are limited to 15 ships.
-- Medium planets are limited to 30 ships.
-- Large planets are limited to 60 ships.
+- Small planets are limited to 10 ships.
+- Medium planets are limited to 20 ships.
+- Large planets are limited to 30 ships.
 
 ## Game Phases
 
