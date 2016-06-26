@@ -6,7 +6,7 @@ To prosper, your species must conquer planets scattered throughout the system. S
 
 If you fail to prosper, you **will** be invaded. Spread too slowly, and you'll fail to amass the army necessary for a proper defense. Spread out too quickly and you'll leave your defenses spread thin, allowing an enemy to quickly conquer your citizenship.
 
-![](layout.jpg)
+![](in-game.jpg)
 
 ## Overview
 
